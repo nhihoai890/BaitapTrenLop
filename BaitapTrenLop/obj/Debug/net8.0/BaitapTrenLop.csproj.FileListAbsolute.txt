@@ -1,0 +1,14 @@
+D:\HocC#\BaitapTrenLop\BaitapTrenLop\bin\Debug\net8.0\BaitapTrenLop.exe
+D:\HocC#\BaitapTrenLop\BaitapTrenLop\bin\Debug\net8.0\BaitapTrenLop.deps.json
+D:\HocC#\BaitapTrenLop\BaitapTrenLop\bin\Debug\net8.0\BaitapTrenLop.runtimeconfig.json
+D:\HocC#\BaitapTrenLop\BaitapTrenLop\bin\Debug\net8.0\BaitapTrenLop.dll
+D:\HocC#\BaitapTrenLop\BaitapTrenLop\bin\Debug\net8.0\BaitapTrenLop.pdb
+D:\HocC#\BaitapTrenLop\BaitapTrenLop\obj\Debug\net8.0\BaitapTrenLop.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocC#\BaitapTrenLop\BaitapTrenLop\obj\Debug\net8.0\BaitapTrenLop.AssemblyInfoInputs.cache
+D:\HocC#\BaitapTrenLop\BaitapTrenLop\obj\Debug\net8.0\BaitapTrenLop.AssemblyInfo.cs
+D:\HocC#\BaitapTrenLop\BaitapTrenLop\obj\Debug\net8.0\BaitapTrenLop.csproj.CoreCompileInputs.cache
+D:\HocC#\BaitapTrenLop\BaitapTrenLop\obj\Debug\net8.0\BaitapTrenLop.dll
+D:\HocC#\BaitapTrenLop\BaitapTrenLop\obj\Debug\net8.0\refint\BaitapTrenLop.dll
+D:\HocC#\BaitapTrenLop\BaitapTrenLop\obj\Debug\net8.0\BaitapTrenLop.pdb
+D:\HocC#\BaitapTrenLop\BaitapTrenLop\obj\Debug\net8.0\BaitapTrenLop.genruntimeconfig.cache
+D:\HocC#\BaitapTrenLop\BaitapTrenLop\obj\Debug\net8.0\ref\BaitapTrenLop.dll

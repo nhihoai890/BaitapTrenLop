@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocC#\\BaitapTrenLop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83F52CEC-3C71-44E2-AB0F-ED529E57DD79}|BaitapTrenLop\\BaitapTrenLop.csproj|d:\\hocc#\\baitaptrenlop\\baitaptrenlop\\baitaplop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F52CEC-3C71-44E2-AB0F-ED529E57DD79}|BaitapTrenLop\\BaitapTrenLop.csproj|solutionrelative:baitaptrenlop\\baitaplop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F52CEC-3C71-44E2-AB0F-ED529E57DD79}|BaitapTrenLop\\BaitapTrenLop.csproj|d:\\hocc#\\baitaptrenlop\\baitaptrenlop\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F52CEC-3C71-44E2-AB0F-ED529E57DD79}|BaitapTrenLop\\BaitapTrenLop.csproj|solutionrelative:baitaptrenlop\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F52CEC-3C71-44E2-AB0F-ED529E57DD79}|BaitapTrenLop\\BaitapTrenLop.csproj|d:\\hocc#\\baitaptrenlop\\baitaptrenlop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F52CEC-3C71-44E2-AB0F-ED529E57DD79}|BaitapTrenLop\\BaitapTrenLop.csproj|solutionrelative:baitaptrenlop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaiTapLop.cs",
+              "DocumentMoniker": "D:\\HocC#\\BaitapTrenLop\\BaitapTrenLop\\BaiTapLop.cs",
+              "RelativeDocumentMoniker": "BaitapTrenLop\\BaiTapLop.cs",
+              "ToolTip": "D:\\HocC#\\BaitapTrenLop\\BaitapTrenLop\\BaiTapLop.cs",
+              "RelativeToolTip": "BaitapTrenLop\\BaiTapLop.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T04:29:56.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\HocC#\\BaitapTrenLop\\BaitapTrenLop\\Student.cs",
+              "RelativeDocumentMoniker": "BaitapTrenLop\\Student.cs",
+              "ToolTip": "D:\\HocC#\\BaitapTrenLop\\BaitapTrenLop\\Student.cs",
+              "RelativeToolTip": "BaitapTrenLop\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T04:27:11.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocC#\\BaitapTrenLop\\BaitapTrenLop\\Program.cs",
+              "RelativeDocumentMoniker": "BaitapTrenLop\\Program.cs",
+              "ToolTip": "D:\\HocC#\\BaitapTrenLop\\BaitapTrenLop\\Program.cs",
+              "RelativeToolTip": "BaitapTrenLop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T04:25:54.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
